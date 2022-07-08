@@ -1,0 +1,22 @@
+# project
+numpy
+pandas
+notebook~=6.2
+scikit-learn~=1.0.2
+requests
+requests-html
+matplotlib
+plotly
+jupyter
+jupyter-client
+black==22.3.0
+flake8==3.8.4
+pre-commit
+rope
+statsmodels
+pmdarima
+seaborn
+xgboost
+prophet==1.1
+keras==2.9.0
+tensorflow

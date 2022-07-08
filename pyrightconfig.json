@@ -1,0 +1,5 @@
+{
+    "venvPath": ".",
+    "venv": "vwin",
+    "reportGeneralTypeIssues": "warning",
+}
