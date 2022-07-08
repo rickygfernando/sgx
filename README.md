@@ -1,6 +1,6 @@
 ## Author: Ricky Gilbert Fernando
 
-** How to run **
+### How to run
 In the root folder, please run:
 * run.bat if you use Windows
 * run.sh if you use Linux
